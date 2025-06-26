@@ -3,9 +3,10 @@
     <title>Sean’s Party Drink Menu</title>
     <link>https://lx1994103.github.io/Party-Menu/feed.xml</link>
     <description>Minimalist vibes, maximum fun.</description>
+    <language>en-us</language>
     <pubDate>Sat, 29 Jun 2025 21:00:00 EST</pubDate>
 
-        <item>
+    <item>
       <title>House Party Drink Menu</title>
       <description><![CDATA[
         <ul>
@@ -22,3 +23,4 @@
     </item>
 
   </channel>
+</rss>
