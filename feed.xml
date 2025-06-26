@@ -5,11 +5,20 @@
     <description>Minimalist vibes, maximum fun.</description>
     <pubDate>Sat, 29 Jun 2025 21:00:00 EST</pubDate>
 
-    <item><title>Old Fashioned</title></item>
-    <item><title>Margarita</title></item>
-    <item><title>Vodka</title></item>
-    <item><title>Tequila</title></item>
-    <item><title>Diet Coke</title></item>
-    <item><title>Diet Sprite</title></item>
+        <item>
+      <title>House Party Drink Menu</title>
+      <description><![CDATA[
+        <ul>
+          <li>Old Fashioned</li>
+          <li>Margarita</li>
+          <li>Vodka</li>
+          <li>Tequila</li>
+          <li>Diet Coke</li>
+          <li>Diet Sprite</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 29 Jun 2025 21:00:00 EST</pubDate>
+      <guid>https://lx1994103.github.io/party-menu/feed.xml#menu</guid>
+    </item>
+
   </channel>
-</rss>
